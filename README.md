@@ -1,4 +1,4 @@
-# Dockerfile_template_for_rails5
+# Docker環境構築
 参考文献
 （https://zenn.dev/tmasuyama1114/articles/rails-docker-5x-how-to)
 
