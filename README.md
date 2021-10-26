@@ -2,6 +2,9 @@
 参考文献
 （https://zenn.dev/tmasuyama1114/articles/rails-docker-5x-how-to)
 
+# 作成ファイル
+環境構築したいディレクトリーにDockerfile,docker-compose.yml,Gemfile,Gemfile.lock作成
+
 # railsプロジェクトの作成 (rails new)
 
 ```docker-compose run web rails new . --force --no-deps --database=mysql```
